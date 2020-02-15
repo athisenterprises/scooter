@@ -1205,103 +1205,6 @@ blockquote {
     margin-right: 0;
   }
 }
-.cid-rO7vo9Cjh7 {
-  padding-top: 1rem;
-  padding-bottom: 6rem;
-}
-@media (min-width: 1200px) {
-  .cid-rO7vo9Cjh7 {
-    background-image: url("../../../assets/images/pharmacy11-15-1200x800.png");
-  }
-}
-@media (max-width: 1199px) {
-  .cid-rO7vo9Cjh7 {
-    background: #ffffff;
-  }
-}
-.cid-rO7vo9Cjh7 .block__inner {
-  padding: 55px 20px 50px;
-  border-radius: 20px;
-  border: 2px solid rgba(120, 160, 189, 0.3);
-}
-.cid-rO7vo9Cjh7 .mbr-section-title {
-  margin-bottom: 0;
-  color: #4179a0;
-}
-.cid-rO7vo9Cjh7 .mbr-text {
-  margin-bottom: 0;
-}
-.cid-rO7vo9Cjh7 .mbr-section-btn {
-  margin-top: 30px;
-}
-.cid-rO7vo9Cjh7 .mbr-section-btn .btn {
-  font-weight: 500;
-}
-.cid-rO7vo9Cjh7 .mbr-media {
-  margin: 35px 0 40px;
-}
-.cid-rO7vo9Cjh7 .mbr-media span {
-  font-size: 16px;
-  cursor: pointer;
-  background-color: #ee1c24;
-  border-radius: 50%;
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
-  position: relative;
-  display: inline-block;
-  transition: all 0.25s;
-  color: #ffffff;
-}
-.cid-rO7vo9Cjh7 .mbr-media span.mbri-play:before {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-35%);
-}
-.cid-rO7vo9Cjh7 .mbr-media span:hover {
-  transform: scale(1.08);
-}
-.cid-rO7vo9Cjh7 .modalWindow {
-  position: fixed;
-  z-index: 5000;
-  left: 0;
-  top: 0;
-  background-color: rgba(61, 61, 61, 0.65);
-  width: 100%;
-  height: 100%;
-}
-.cid-rO7vo9Cjh7 .modalWindow .modalWindow-container {
-  display: table-cell;
-  vertical-align: middle;
-}
-.cid-rO7vo9Cjh7 .modalWindow .modalWindow-video {
-  height: calc(44.9943757vw);
-  width: 80vw;
-  margin: 0 auto;
-}
-.cid-rO7vo9Cjh7 a.close {
-  position: absolute;
-  right: 0;
-  top: 0;
-  color: #ffffff;
-  z-index: 5000000;
-  font-size: 16px;
-  background: #000;
-  padding: 10px;
-  transition: all 0.2s;
-}
-.cid-rO7vo9Cjh7 a.close:hover {
-  color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-rO7vo9Cjh7 .block__inner {
-    padding: 40px 10px;
-  }
-}
-.cid-rO7vo9Cjh7 .mbr-text,
-.cid-rO7vo9Cjh7 .mbr-section-btn {
-  color: #78a0bd;
-}
 .cid-rQzcwPDEDi {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -2021,43 +1924,6 @@ blockquote {
   font-weight: bold;
   color: #000000;
 }
-.cid-rO7vJCtaTG {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-rO7vJCtaTG .mbr-section-title {
-  margin-top: 30px;
-  margin-bottom: 0;
-}
-.cid-rO7vJCtaTG .mbr-text {
-  margin-top: 20px;
-  margin-bottom: 0;
-  color: #919dab;
-  margin-top: 30px;
-}
-.cid-rO7vJCtaTG .mbr-section-btn {
-  margin-top: 45px;
-}
-.cid-rO7vJCtaTG .mbr-section-btn .btn {
-  font-weight: 500;
-}
-.cid-rO7vJCtaTG img {
-  width: 100px;
-  height: 100px;
-  border-radius: 30px;
-}
-@media (max-width: 767px) {
-  .cid-rO7vJCtaTG .mbr-section-btn {
-    margin-top: 30px;
-  }
-  .cid-rO7vJCtaTG .mbr-section-btn .btn {
-    height: 50px;
-  }
-  .cid-rO7vJCtaTG .mbr-text {
-    margin-top: 10px;
-  }
-}
 .cid-rO7vsWQnCM {
   padding-top: 6rem;
   padding-bottom: 2rem;
@@ -2508,7 +2374,7 @@ blockquote {
   margin: 10px 0 0;
   font-weight: 500;
   transition: all .25s;
-  color: #ff1300;
+  color: #1e0e62;
 }
 .cid-rO7wJB29e5 .tel .mbr-iconfont {
   width: 30px;
