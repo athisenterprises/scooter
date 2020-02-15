@@ -2323,44 +2323,76 @@ blockquote {
     background: #ff7166;
   }
 }
-.cid-rO7wI1f1VB {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+.cid-rQzoCwDZdP {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-rO7wI1f1VB .mbr-section-title,
-.cid-rO7wI1f1VB .mbr-text {
-  margin-bottom: 0;
+.cid-rQzoCwDZdP .mbr-section-title {
+  margin: 20px 0 30px;
 }
-.cid-rO7wI1f1VB .text {
-  opacity: .7;
-  margin: 15px 0 50px;
+.cid-rQzoCwDZdP .art {
+  display: flex;
+  flex-direction: column;
+}
+.cid-rQzoCwDZdP .mbr-text {
+  margin-bottom: 0;
+  color: #919dab;
+}
+.cid-rQzoCwDZdP .image__top {
+  display: flex;
+  justify-content: flex-start;
+}
+.cid-rQzoCwDZdP .image__top img {
+  padding: 20px 0;
+  object-fit: cover;
+}
+.cid-rQzoCwDZdP .mbr-section-btn {
+  margin-top: 30px;
+}
+.cid-rQzoCwDZdP .mbr-section-btn .btn {
   font-weight: 500;
 }
-.cid-rO7wI1f1VB .card__block {
-  margin-bottom: 30px;
+.cid-rQzoCwDZdP .bottom__wrapper {
+  margin-top: 75px;
 }
-.cid-rO7wI1f1VB .image {
-  display: flex;
-  border-radius: 10px;
-  background-color: #f7f7f8;
-  max-width: 270px;
-  height: 160px;
+.cid-rQzoCwDZdP .bottom__block {
+  padding-bottom: 60px;
 }
-.cid-rO7wI1f1VB .image img {
+.cid-rQzoCwDZdP .bottom__title {
+  margin: 55px 0 30px;
+}
+.cid-rQzoCwDZdP .image__bottom {
+  height: 500px;
+}
+.cid-rQzoCwDZdP .image__bottom img {
+  max-width: 100%;
+  height: 100%;
   object-fit: cover;
-  max-width: 70%;
-  max-height: 70%;
+  padding: 20px 0;
 }
-.cid-rO7wI1f1VB .mbr-text {
-  color: #737e86;
+.cid-rQzoCwDZdP .bottom__text {
+  color: #919dab;
+  margin-bottom: 0;
 }
-.cid-rO7wI1f1VB .image {
-  background-color: transparent;
-  border: 2px solid rgba(235, 234, 237, 0.4);
-}
-.cid-rO7wI1f1VB .mbr-section-title {
-  color: #4179a0;
+@media (max-width: 767px) {
+  .cid-rQzoCwDZdP .image__top img {
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+  }
+  .cid-rQzoCwDZdP .image__bottom {
+    height: 350px;
+  }
+  .cid-rQzoCwDZdP .bottom__wrapper {
+    margin-top: 50px;
+  }
+  .cid-rQzoCwDZdP .bottom__title {
+    margin: 0 0 10px;
+  }
+  .cid-rQzoCwDZdP .bottom__block {
+    padding-bottom: 40px;
+  }
 }
 .cid-rO7wJB29e5 {
   padding-top: 0px;
